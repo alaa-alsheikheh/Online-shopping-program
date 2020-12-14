@@ -1,0 +1,10 @@
+String Type
+Double Tprice, Ship, Discount
+For all user records remain
+Read Tprice, Type
+If (Tprice <= 85) then
+Ship = 2 + Tprice
+Else
+Ship = 0.5 + Tprice
+End if
+End for
