@@ -8,3 +8,10 @@ Else
 Ship = 0.5 + Tprice
 End if
 End for
+If type = “VIP”
+Discount =30%
+Print Discount
+Else 
+Discount = 10%
+Print Discount 
+End if
