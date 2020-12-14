@@ -15,3 +15,7 @@ Else
 Discount = 10%
 Print Discount 
 End if
+Read final-price
+fina-price= Tprice + Ship + Discount 
+Print final-price
+Display "program over"
